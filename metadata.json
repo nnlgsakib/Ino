@@ -1,0 +1,7 @@
+{
+  "name": "testspl",
+  "symbol": "testl",
+  "description": "This is my custom token",
+  "image": "https://faucet.solana.com/favicon.ico",
+  "attributes": []
+}
